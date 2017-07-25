@@ -1,0 +1,6 @@
+S.no		Test case link
+1. 	[[https://github.com/Virtual-Labs/anthropology-iitg/blob/master/test-cases/integration_test-cases/Virtual Anthropology/Virtual Anthropology_01_Usability_smk.org][Virtual Anthropology_01_Usability_smk.org]]
+2. 	[[https://github.com/Virtual-Labs/anthropology-iitg/blob/master/test-cases/integration_test-cases/Virtual Anthropology/Virtual Anthropology_02_Home Page_smk.org][Virtual Anthropology_02_Home Page_smk.org]]
+3. 	[[https://github.com/Virtual-Labs/anthropology-iitg/blob/master/test-cases/integration_test-cases/Virtual Anthropology/Virtual Anthropology_03_About_smk.org][Virtual Anthropology_03_About_smk.org]]
+4. 	[[https://github.com/Virtual-Labs/anthropology-iitg/blob/master/test-cases/integration_test-cases/Virtual Anthropology/Virtual Anthropology_04_People_smk.org][Virtual Anthropology_04_People_smk.org]]
+5. 	[[https://github.com/Virtual-Labs/anthropology-iitg/blob/master/test-cases/integration_test-cases/Virtual Anthropology/Virtual Anthropology_05_Contact_smk.org][Virtual Anthropology_05_Contact_smk.org]]
